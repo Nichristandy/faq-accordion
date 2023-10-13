@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         "mobile-pattern": "url('/images/bg-pattern-mobile.svg')",
+        "desktop-pattern": "url('../images/bg-pattern-desktop.svg')",
       },
       colors: {
         "soft-violet": "hsl(273, 75%, 66%)",
